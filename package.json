@@ -1,0 +1,14 @@
+{
+  "name": "group12sweproject",
+  "version": "1.0.0",
+  "description": "Disability Accessibility Map",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Evans, Ansel John, Dahun Ju, Edward Asante",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
